@@ -15,12 +15,10 @@ let prijs = 19.99;
 let aantal = 3;
 
 let totaal = (aantal*prijs).toFixed(2);
-console.log(totaal)
+console.log(totaal);
 
 // 8. Increment
 
-let teller = 0
-let telop = ++teller
-console.log(resultaat)
-console.log(resultaat)
-console.log(resultaat)
+let teller = 0;
+teller++
+console.log(teller);
